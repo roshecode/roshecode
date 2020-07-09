@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I make forward-looking web packages based on modern standards for complex and modular applications written mainly in PHP and TypeScript.
+
+### If you like my work you can sponsor me through [GitHub sponsors.](https://github.com/sponsors/roshecode)
+
+🥂 Cheers!
+
 <!--
 **roshecode/roshecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
